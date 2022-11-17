@@ -14,7 +14,7 @@ The following analysis has been carried out by executing the hashing program ove
 
 ## Analysis
 The following graphs were created from running the program 18000 times and visualizing the resulting data.
-![Console Image](https://github.com/Alexander-N-Chin/Multi-Threaded-Hashing/main/graph1.png?raw=true)
+![Console Image](./graph1.png?raw=true)
 ![Console Image](https://github.com/Alexander-N-Chin/Multi-Threaded-Hashing/main/graph2.png?raw=true)
 ![Console Image](https://github.com/Alexander-N-Chin/Multi-Threaded-Hashing/main/graph3.png?raw=true)
 The data shows a quadratic correlation between the solve time and the number of threads. The same can be said about the correlation between the solve time and the number of blocks per thread. This disproves our original prediction regarding the linear speed up, but it gives insight into the practical application of multi-threading: although initially, an increase in threads results in a decrease in solve time, as the number of threads passes a certain threshold (around 256 threads in this experiment marked by the maximum of the curve) the corresponding speed up is bottlenecked by the overhead of creating, calculating, and passing the values between each thread. Graph 3 visualizes this drop in speedup past the aforementioned threshold by displaying the ratio between the solve time with a single thread and the solve time with n threads working in parallel.
