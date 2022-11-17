@@ -1,0 +1,9787 @@
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.036995 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.933789 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.822172 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.806684 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.733307 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.754426 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.731748 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.747734 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.826901 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.852436 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.857919 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.881542 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.885795 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.162151 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.399823 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.875135 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.853839 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.862937 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.867882 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.046925 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.981654 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.829806 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.813430 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.833136 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.905002 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.933941 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.888467 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.060671 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.750900 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.751137 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.741339 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.921424 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.801386 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.771836 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.757350 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.743983 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.751337 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.746958 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.805462 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.828879 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.759436 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.745641 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.747256 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.758083 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.803112 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.807434 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.814967 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.745874 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.755621 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.740217 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.924308 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.822943 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.746793 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.145858 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.749953 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.864238 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.379717 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.900278 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.883615 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.761745 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.796873 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.750184 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.838744 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.031036 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.824811 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.746772 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.753698 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.866188 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.810024 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.025907 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.754311 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.762628 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.768587 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.775868 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.940529 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.834275 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.811076 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.837288 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.758907 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.761470 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.846467 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.798351 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.750953 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.842426 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.758036 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.081989 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.811991 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.825512 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.770462 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.755111 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.751961 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.746660 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.840227 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.850865 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.752090 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.743690 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.749590 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.893844 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.855027 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.210192 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.870925 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.182052 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.876699 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.853545 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.885537 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.860559 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.856400 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.893158 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.920088 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.902682 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.893831 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.908085 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.873039 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.803325 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.865047 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.777305 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.851529 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.185060 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.865196 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.895181 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.308492 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.419872 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.894385 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.872166 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.891291 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.867116 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.134432 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.860742 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.192813 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.415442 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.358079 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.319391 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.408683 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.337460 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.840553 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.959015 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.891762 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.872259 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.881173 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.900671 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.990269 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.776137 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.799352 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.754751 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.179111 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.935299 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.765171 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.748591 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.081905 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.876933 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.784972 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.882106 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.760364 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.789209 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.037465 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.202716 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.831230 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.940936 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.788095 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.779890 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.758249 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.739835 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.789736 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.856971 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.741294 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.839943 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.765001 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.000289 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.771233 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.816210 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.740917 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.884928 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.758025 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.856838 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.321797 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.404998 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.882237 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.395921 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.863648 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.899186 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.893164 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.775755 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.754733 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.746020 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.920999 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.750263 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.880362 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.899269 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.788984 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.737902 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.749653 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.737288 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.846292 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.799043 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.750223 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.741053 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.747511 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.763061 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.787325 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.035370 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.791551 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.749337 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.189480 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.745965 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.911236 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.907980 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.744786 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.756949 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.769173 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.749473 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.815751 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.307177 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.895024 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.869986 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.372949 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.988049 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.880962 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.069551 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.297697 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.968007 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.292631 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.992024 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.242047 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.336451 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.263253 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.403313 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.185694 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.889793 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.856412 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.956550 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.849033 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.850516 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.838057 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.815898 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.193744 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.942914 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.290046 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.881559 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.871574 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.279503 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.876328 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.860994 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.890065 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.997102 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.795475 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.022931 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.895955 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.392053 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.850318 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.931010 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.870339 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.211903 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.747867 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.741680 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.780425 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.741814 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.966212 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.816598 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.767359 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.793117 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.738508 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.814534 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.771397 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.839095 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.096480 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.962463 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.739333 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.799380 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.757180 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.866610 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.789629 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.753401 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.739009 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.749324 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.887025 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.236891 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.107926 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.893559 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.879002 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.887537 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.882588 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.899104 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.874740 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.871481 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.876583 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.906571 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.892137 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.813434 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.967674 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.750978 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.932544 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.751118 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.814702 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.837526 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.834319 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.756824 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.760948 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.750446 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.925612 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.822127 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.901587 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.850534 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.145644 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.129268 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.419593 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.124248 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.235832 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.370862 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.838591 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.209923 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.113921 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.866419 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.396613 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.381155 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.404791 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.429073 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.951521 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.178561 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.065783 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.238261 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.367190 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.167582 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.352504 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.083579 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.420384 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.303451 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.231486 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.387613 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.893520 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.302489 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.045693 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.220189 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.443494 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.153031 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.138136 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.033612 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.240202 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.865726 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.793498 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.831132 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.748273 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.825256 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.767624 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.823561 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.139691 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.749225 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.753836 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.766801 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.744620 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.936138 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.863527 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.755578 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.752883 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.958609 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.755821 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.813464 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.824498 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.752665 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.932862 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.759756 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.756720 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.804852 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.832413 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.809861 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.757029 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.147246 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.985010 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.815598 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.016276 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.748143 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.833824 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.755761 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.740767 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.969003 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.844842 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.760313 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.750932 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.749424 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.888861 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.771550 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.828661 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.856868 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.822726 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.876692 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.118989 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.294904 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.061556 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.935215 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.349507 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.931220 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.018210 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.402629 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.011587 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.094775 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.290343 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.001568 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.055132 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.843413 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.769712 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.825872 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.743847 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.106812 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.771883 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.858898 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.755954 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.753438 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.957143 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.743523 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.869818 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.046057 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.020970 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.069230 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.342526 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.860561 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.994221 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.361636 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.163110 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.225943 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.032964 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.213238 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.311184 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.885717 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.869829 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.869323 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.975866 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.409876 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.258460 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.746783 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.753687 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.763926 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.757605 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.855432 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.022488 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.753498 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.132005 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.757529 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.806547 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.985275 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.905929 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.751809 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.092567 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.753655 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.946835 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.009862 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.854130 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.781996 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.754374 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.039880 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.278146 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.955971 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.877430 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.357832 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.110648 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.262193 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.072800 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.241637 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.253255 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.751373 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.751309 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.764841 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.777209 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.914056 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.907550 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.880590 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.123673 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.283323 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.091519 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.876471 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.889373 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.237858 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.043572 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.471110 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.924654 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.281614 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.033109 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.172917 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.937509 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.105237 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.087233 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.754437 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.760800 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.761022 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.766272 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.763804 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.879723 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.780863 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.809974 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.741975 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.053504 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.082291 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.858161 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.767895 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.765595 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.754902 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.794440 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.900403 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.881300 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.752523 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.267229 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.972912 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.769220 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.790780 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.043699 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.014931 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.779236 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.811457 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.845129 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.786053 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.859303 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.808764 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.083850 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.834622 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.781404 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.833213 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.952103 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.791176 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.889995 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.796232 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.795186 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.809327 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.940853 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.227560 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.871836 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.864605 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.792791 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.867988 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.898495 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.801903 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.857251 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.882635 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.784882 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.208300 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.888393 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.782402 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.814729 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.828263 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.882431 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.937594 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.893141 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.035351 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.939869 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.849762 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.063136 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.144287 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.254191 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.389371 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.822423 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.822315 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.948471 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.881386 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.889507 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.934698 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.831649 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.851287 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.923908 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.872599 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.891626 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.924057 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.886552 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.908102 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.809471 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.135076 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.922909 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.798102 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.796144 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.013583 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.795699 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.031563 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.974173 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.074249 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.903061 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.936145 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.065944 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.902086 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.927503 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.997809 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.776397 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.810061 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.854145 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.982633 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.832330 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.273031 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.273132 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.844387 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.445969 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.816963 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.821019 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.806371 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.843689 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.824764 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.898786 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.816550 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.821413 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.818451 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.825756 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.859778 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.898364 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.929763 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.821850 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.854944 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.828437 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.794414 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.789634 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.877879 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.890697 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.945862 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.784766 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.777194 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.914271 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.901200 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.133490 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.816864 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.014002 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.822684 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.143001 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.886934 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.799411 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.888142 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.990927 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.869841 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.895551 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.802258 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.858582 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.905394 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.816792 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.031473 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.065175 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.900967 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.029396 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.145187 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.242376 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.881768 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.893157 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.080464 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.994525 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.894398 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.341158 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.118580 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.414126 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.053128 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.915262 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.887536 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.776986 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.857244 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.283035 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.853945 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.795997 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.416575 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.233761 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.125231 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.859051 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.895899 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.821069 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.868660 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.904678 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.795306 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.325909 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.858346 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.874497 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.811273 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.774601 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.860760 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.894989 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.217619 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.063581 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.360495 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.166352 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.943563 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.844413 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.911548 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.119285 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.987393 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.356798 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.821297 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.237020 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.218888 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.899395 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.237495 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.309347 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.903820 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.300823 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.422579 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.371830 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.041383 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.891121 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.903712 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.058976 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.857147 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.922778 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.958403 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.234866 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.894695 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.842430 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.878574 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.894698 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.886783 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.078385 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.824585 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.912224 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.008074 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.845860 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.939942 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.924097 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.005748 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.865489 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.868747 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.937266 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.323094 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.200490 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.029128 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.977492 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.965380 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.051365 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.956054 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.010240 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.264736 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.909594 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.001904 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.157087 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.113287 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.008650 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.878618 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.897826 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.140153 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.918070 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.902241 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.953790 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.236262 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.232719 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.465331 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.050728 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.265417 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.442167 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.228910 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.312365 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.232971 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.591685 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.597368 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.954450 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.889371 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.211136 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.477744 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.988289 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.148068 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.173824 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.935665 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.953772 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.795397 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.786970 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.885382 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.889739 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.803888 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.781572 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.817046 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.788606 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.752925 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.822575 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.814456 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.788210 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.068151 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.809543 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.780747 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.844455 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.881442 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.881419 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.141417 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.805179 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.785966 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.858726 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.936664 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.936445 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.009344 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.911265 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.858948 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.408664 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.907113 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.116613 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.241248 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.781397 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.944523 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.869100 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.774456 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.938312 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.039111 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.803529 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.824705 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.078333 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.818408 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.790608 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.831165 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.932246 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.930429 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.945071 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.931918 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.905413 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.859891 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.051781 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.867444 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.889646 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.873945 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.059666 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.881724 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.971409 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.869098 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.959701 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.842622 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.842580 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.904925 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.872363 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.900030 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.926249 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.876994 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.155272 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.961094 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.908651 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.269020 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.873730 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.912117 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.323721 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.287298 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.921068 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.087864 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.007098 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.990009 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.139943 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.101738 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.218654 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.872590 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.801261 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.926356 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.921877 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.809739 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.801975 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.398639 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.909383 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.966047 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.903246 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.791389 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.249566 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.800750 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.779450 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.780230 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.790153 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.866874 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.995704 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.925489 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.855555 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.939997 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.824796 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.268479 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.982970 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.839170 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.778106 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.791588 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.817417 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.814063 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.936176 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.994389 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.847827 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.847876 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.827719 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.892266 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.073255 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.144894 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.145734 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.798342 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.922101 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.036445 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.854091 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.909114 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.943013 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.814485 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.842298 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.822774 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.340256 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.440844 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.873463 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.867374 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.878328 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.974238 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.986526 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.024617 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.884174 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.884092 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.882228 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.244392 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.919762 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.106834 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.947303 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.940787 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.882186 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.936941 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.322962 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.885118 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.957655 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.999684 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.997186 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.979990 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.382290 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.906779 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.879207 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.981381 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.123593 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.978554 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.901859 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.881484 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.075971 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.125481 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.288639 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.090216 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.107282 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.062814 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.869535 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.890595 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.039819 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.457644 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.004618 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.335564 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.140416 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.431515 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.981313 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.146088 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.478122 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.956033 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.197204 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.946311 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.326661 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.078316 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.185215 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.874924 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.375348 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.987191 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.956279 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.522741 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.144319 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.245718 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.970384 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.974780 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.237932 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.979349 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.154607 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.176576 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.022131 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.954633 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.011460 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.265403 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.954908 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.940999 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.329913 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.949538 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.166742 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.969612 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.382543 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.012834 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.201995 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.003700 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.054974 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.895886 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.148001 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.274933 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.246917 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.011741 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.060164 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.177823 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.010709 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.969858 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.933437 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.984354 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.023896 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.967163 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.988454 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.054418 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.910434 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.932574 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.118658 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.028092 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.961671 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.915243 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.015038 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.183485 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.929309 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.094699 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.072340 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.905887 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.949277 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.065403 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.915578 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.965453 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.992403 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.918383 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.399547 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.061329 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.053583 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.129051 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.126323 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 3.920169 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.049601 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.023188 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.219205 
+
+tc2 1
+no. of blocks = 131072 
+no. of threads per block = 131072 
+hash value = 3631830 
+time taken = 4.349086 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.013340 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 2.972226 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.003890 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 2.999256 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.083154 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.051477 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 2.961890 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 2.979056 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.089905 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 2.928311 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 2.942159 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.131619 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.115957 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.003913 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.128300 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.055893 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.025056 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.072965 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.182394 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.024121 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.065556 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.088981 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 2.997834 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 2.925600 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.028985 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.009805 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.199294 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.138528 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.015588 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.043662 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.005756 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.037489 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.053836 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 2.937286 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.069669 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.093859 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.053595 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 2.996862 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 2.920349 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 2.941652 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.087667 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.125755 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.269236 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.194991 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.073894 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.100069 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 2.967868 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 2.923413 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.088246 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 2.936357 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 2.954630 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 2.999802 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 2.967212 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 2.977561 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.040037 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 2.942981 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.002264 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 2.989765 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.050529 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 2.951911 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.038124 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.013716 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.019972 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.045684 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.204077 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.317809 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.312391 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.260962 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.089424 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.108735 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.123757 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.113181 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.226689 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.202280 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.140590 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.072148 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.079486 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.020056 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.074428 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.061064 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.168993 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.064097 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.059400 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.040202 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.014313 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.181938 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.015264 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 2.988600 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.071798 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.110481 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.083132 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.027879 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.047280 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.025388 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.071607 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.053929 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.044011 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 2.978334 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.131901 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.028104 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.040555 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.063737 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.004544 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.770246 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.720658 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.713902 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 2.986014 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 2.974091 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.067942 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.044958 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 2.994684 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.018171 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.065232 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.150659 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.147414 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.062858 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.135386 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.284801 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.050562 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.093235 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.093778 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.090717 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.062835 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.149224 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.074490 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.087624 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.113880 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.228249 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.242607 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.077181 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.096827 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.180219 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.097056 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.094507 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.106027 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 2.999108 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.060540 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.064265 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 2.998416 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.142441 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.068037 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.089849 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.184326 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.043167 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.050779 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.049422 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.055413 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.017700 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.060066 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.054400 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.068886 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 2.990889 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.096250 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.115998 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.194976 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.100409 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.143194 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.073931 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.061768 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.087441 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.065701 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.038394 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.042411 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.037698 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.085819 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.187184 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.147882 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.022124 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.026084 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.074825 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.118294 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.079321 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.081929 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.098301 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.176481 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.004475 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.112163 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.048679 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.046200 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.021505 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.215349 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.141386 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.023775 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.051371 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.011639 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.051585 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.054336 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.154565 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.225287 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.041919 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.052427 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.104551 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.006820 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.301052 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.005704 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.000487 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.009499 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.030172 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.011591 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.076055 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.106608 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.186922 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.012522 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.038640 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.035590 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.033815 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.051292 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.063587 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.035110 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.061537 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.153331 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.009782 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.025868 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.135435 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.047111 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.151610 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.091886 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.076571 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.183350 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.146645 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.139421 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.172260 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.100920 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.093240 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.180024 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.116035 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.074356 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.094548 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.125805 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.141720 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.165350 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.102799 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.284198 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.123775 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.139159 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.105618 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.162058 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.257660 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.193960 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.050551 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.128690 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.073778 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.102890 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.051113 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.126462 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.109890 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.167817 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.067628 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.248895 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.119757 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.108820 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.145590 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.223488 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.133566 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.143248 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.222492 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.055325 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.101569 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.090839 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.220325 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.118217 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.100787 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.215107 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.097053 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.096437 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.254225 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.135597 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.089913 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.097139 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.138906 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.219027 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.103835 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.077681 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.245957 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.143385 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.117432 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.186158 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.069708 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.139416 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.154044 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.133600 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.216639 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.161491 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.202720 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.157117 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.129562 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.108343 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.140350 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.195005 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.181414 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.141318 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.248798 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.117704 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.128345 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.088059 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.246293 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.229532 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.099588 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.091675 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.162937 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.132955 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.166383 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.168258 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.365799 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.272903 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.149434 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.154382 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.119979 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.212074 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.229794 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.332913 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.218324 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.221192 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.170097 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.102914 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.098644 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.209347 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.132021 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.131765 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.114173 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.278198 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.030932 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.095524 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.065054 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.070831 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.159861 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.176573 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.158660 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.210627 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.176895 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.188131 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.110329 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.315532 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.592577 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.602686 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.334992 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.307609 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.648377 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.813646 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.200622 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.230561 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.225587 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.134144 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.288273 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.204394 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.163216 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.199901 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.235618 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.223615 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.198763 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.241280 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.166554 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.180884 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.180085 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.256974 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.707472 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 4.664486 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 4.547837 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.596403 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 4.074018 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.166436 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.254394 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.171543 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.189785 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.189826 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.179787 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.194711 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.230005 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.183786 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.214921 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.260062 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.319244 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.301686 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.242835 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.248417 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.194492 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.127567 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.195530 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.174085 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.162380 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.132949 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.152754 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.197858 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.158376 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.184272 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.175160 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.208057 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.151678 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.180071 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.181060 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.205446 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.164102 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.195128 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.235583 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.148329 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.189256 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.135766 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.152782 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.148638 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.172509 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.200186 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.235467 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.309144 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.186689 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.181734 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.203976 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.162341 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.171640 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.213410 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.215426 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.127785 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.183884 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.146210 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.160482 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.231362 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.199115 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.251093 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.162918 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.206436 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.158396 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.174574 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.166122 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.239518 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.120149 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.187550 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.178319 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.123338 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 2.852437 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 2.834181 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 2.868268 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 2.876857 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 2.899519 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 2.869281 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 2.887151 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 2.919883 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 2.827485 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 2.858269 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 2.913615 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 2.942647 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 2.999945 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 2.888022 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 2.985706 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 2.976276 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 2.989406 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.035551 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 2.872335 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 2.919890 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 2.905113 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 2.971690 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 2.865796 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 2.874012 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 2.867455 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 2.808438 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 2.800833 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 2.827480 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 2.795090 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 2.818244 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 2.853553 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 2.908070 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 2.966740 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 2.896378 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 2.889893 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 2.999745 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 2.906716 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 2.922137 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 2.953948 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 2.893032 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 2.917980 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 2.898086 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 2.862896 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 2.817006 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 2.846371 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 2.835516 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 2.885357 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 2.959797 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 2.986633 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 2.938594 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.011973 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.068424 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 2.918693 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 2.999498 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.002759 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.017523 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 2.987501 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 2.879137 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 2.837097 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 2.814258 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 2.826726 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 2.980997 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 2.923975 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 2.810447 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 2.896116 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 2.831219 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 2.870458 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 2.865334 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 2.852759 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 2.836918 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 2.869354 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 2.821689 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 2.806882 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 2.826432 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 2.851648 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 2.821466 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 2.813683 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 2.834679 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 2.875392 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 2.853055 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 2.814977 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 2.803411 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 2.832366 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 2.846140 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 2.841627 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 2.802432 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 2.868510 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 2.918863 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.040914 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.163175 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.081598 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.093584 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.099510 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 2.912133 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 2.894188 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 2.843892 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 2.933580 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 2.794480 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 2.878778 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 2.803818 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 2.815716 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 2.868417 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 2.925221 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 2.888761 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 2.797432 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 2.944963 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 2.825247 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 2.872866 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 2.809433 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 2.839282 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 2.883631 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 2.840729 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 2.829988 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 2.828332 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 2.859677 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 2.930774 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 2.813202 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 2.816010 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 2.863708 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 2.843472 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 2.834538 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 2.922785 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 2.916341 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 2.900491 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.214989 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 2.860646 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 2.859542 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 2.834686 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 2.838546 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 2.852288 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 2.867404 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 2.919305 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 2.801843 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 2.807188 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 2.829628 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 2.871424 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.028698 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 2.902846 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 2.804134 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 2.806586 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 2.841597 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 2.930270 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 2.916693 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 2.840306 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 2.899002 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 2.981939 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 2.903901 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.155827 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 2.920609 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 2.941026 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.432019 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.224773 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.117187 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 2.968264 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.066211 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.033484 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.079908 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.071746 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 2.936877 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 2.933617 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 2.982186 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 2.843394 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 2.827897 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.041575 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 2.904876 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 2.882953 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 2.843647 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 2.999053 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 2.931578 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 2.834578 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 2.865987 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 2.971736 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 2.866983 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 2.851443 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 2.906789 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 2.977154 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.073195 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.177921 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.037802 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.065372 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 2.876509 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 2.843292 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.020031 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 2.854931 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 2.877146 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 2.867400 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 2.880587 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 2.882573 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 2.885806 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 2.867203 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 2.896723 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 2.870673 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 2.935596 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 2.817659 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 2.878490 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 2.948236 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 2.822263 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 2.825806 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 2.830056 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 3.019367 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 2.866587 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 2.833906 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 2.842125 
+
+tc2 4
+no. of blocks = 131072 
+no. of threads per block = 32768 
+hash value = 2247834923 
+time taken = 2.963369 
+
