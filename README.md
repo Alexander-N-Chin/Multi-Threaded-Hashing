@@ -20,4 +20,3 @@ Although multi-threading can be implemented to speed up runtimes by large factor
 ## Demo
 
 ![Console Image](./a11_1.png?raw=true)
-![Console Image](./a11_2.png?raw=true)
